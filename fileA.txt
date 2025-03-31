@@ -1,1 +1,1 @@
-this file name is fileA.txt
+new line add to this file
